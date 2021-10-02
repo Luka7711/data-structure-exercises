@@ -1,0 +1,23 @@
+{
+  "name": "algocasts-master",
+  "version": "1.0.0",
+  "description": "Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luka7711/data-structure-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luka7711/data-structure-exercises/issues"
+  },
+  "homepage": "https://github.com/Luka7711/data-structure-exercises#readme"
+}
